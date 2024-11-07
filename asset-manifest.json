@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/novus/static/css/main.123e32fa.css",
-    "main.js": "/novus/static/js/main.ffecf8e9.js",
+    "main.css": "/novus/static/css/main.e45f705d.css",
+    "main.js": "/novus/static/js/main.ea1c5ad8.js",
     "static/js/787.8afd0638.chunk.js": "/novus/static/js/787.8afd0638.chunk.js",
     "index.html": "/novus/index.html",
-    "main.123e32fa.css.map": "/novus/static/css/main.123e32fa.css.map",
-    "main.ffecf8e9.js.map": "/novus/static/js/main.ffecf8e9.js.map",
+    "main.e45f705d.css.map": "/novus/static/css/main.e45f705d.css.map",
+    "main.ea1c5ad8.js.map": "/novus/static/js/main.ea1c5ad8.js.map",
     "787.8afd0638.chunk.js.map": "/novus/static/js/787.8afd0638.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.123e32fa.css",
-    "static/js/main.ffecf8e9.js"
+    "static/css/main.e45f705d.css",
+    "static/js/main.ea1c5ad8.js"
   ]
 }
