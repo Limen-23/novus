@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/novus/static/css/main.c9b89441.css",
+    "main.js": "/novus/static/js/main.80be40c5.js",
+    "static/js/787.8afd0638.chunk.js": "/novus/static/js/787.8afd0638.chunk.js",
+    "index.html": "/novus/index.html",
+    "main.c9b89441.css.map": "/novus/static/css/main.c9b89441.css.map",
+    "main.80be40c5.js.map": "/novus/static/js/main.80be40c5.js.map",
+    "787.8afd0638.chunk.js.map": "/novus/static/js/787.8afd0638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b89441.css",
+    "static/js/main.80be40c5.js"
+  ]
+}
